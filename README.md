@@ -15,3 +15,5 @@ Blog post relating to the EDA project via Medium: https://simner.medium.com/usc-
 HW4_Simner_Sidney : linear regression and correlaiton
 
 HW5_Simner_sidney : logistic regression
+
+HW6_simner_sidney : introduction to decision trees
