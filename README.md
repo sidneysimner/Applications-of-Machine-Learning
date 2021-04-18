@@ -17,3 +17,5 @@ HW4_Simner_Sidney : linear regression and correlaiton
 HW5_Simner_sidney : logistic regression
 
 HW6_simner_sidney : introduction to decision trees
+
+HW7_Simner_Sidney : ensamble methods 
