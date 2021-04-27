@@ -1,6 +1,6 @@
 # Applications-of-Machine-Learning
 
-This Repository ocntains assignments from my Introduction to Machine Learning class as part of the Applied Analytics minor at the University of Southern California.
+This repository contains assignments from my Introduction to Machine Learning class as part of the Applied Analytics minor at the University of Southern California.
 See file content descriptions below.
 
 File Descriptions:
